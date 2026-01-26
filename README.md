@@ -1,10 +1,6 @@
-<h1>
-  <img src="https://www.rust-lang.org/logos/rust-logo-32x32.png" alt="Rust Logo" width="32" height="32" style="vertical-align: middle;">
-  Rust Learning Repository
-</h1>
+# ![Rust Logo](https://www.rust-lang.org/logos/rust-logo-32x32.png) Rust Learning Repository
 
-
-I am a **NLP student at Paris Cité**, and this repository tracks my progress learning **Rust** through exercises on [Rustfinity](https://www.rustfinity.com/).  
+I am a **NLP student at Paris Cité**, and this repository tracks my learning learning **Rust** through exercises on [Rustfinity](https://www.rustfinity.com/).  
 
 This initiative complements my academic studies and helps me build practical skills aligned with the professional requirements of the NLP industry, where Rust is increasingly used for high-performance, safe, and concurrent systems.
 
@@ -22,7 +18,6 @@ This initiative complements my academic studies and helps me build practical ski
 - Gain proficiency in Rust syntax, concepts, and best practices.
 - Build a demonstrable portfolio of applied exercises.
 - Prepare for real-world, performance-sensitive NLP projects.
-
 
 ## Progress
 
