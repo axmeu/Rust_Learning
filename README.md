@@ -1,4 +1,8 @@
-# Rust Learning Repository
+<h1>
+  <img src="https://www.rust-lang.org/logos/rust-logo-32x32.png" alt="Rust Logo" width="32" height="32" style="vertical-align: middle;">
+  Rust Learning Repository
+</h1>
+
 
 I am a **NLP student at Paris Cité**, and this repository tracks my progress learning **Rust** through exercises on [Rustfinity](https://www.rustfinity.com/).  
 
@@ -9,7 +13,7 @@ This initiative complements my academic studies and helps me build practical ski
 
 - The repository provides a **chronological record** of my learning journey in Rust.
 - Each exercise is in its own folder (Hello_world, Declaring_Variables, etc...) as a standalone Rust project with a main.rs file.
-- Every folder contains a Cargo.toml and src/main.rs (cargo init --bin), making it a self-contained Rust project that can be run with `cargo run`.
+- Every folder contains a Cargo.toml and src/main.rs (cargo new --bin exercice), making it a self-contained Rust project that can be run with `cargo run`.
 
 
 
@@ -19,3 +23,7 @@ This initiative complements my academic studies and helps me build practical ski
 - Build a demonstrable portfolio of applied exercises.
 - Prepare for real-world, performance-sensitive NLP projects.
 
+
+## Progress
+
+![Progress](https://img.shields.io/badge/progress-2%25-brightgreen)
