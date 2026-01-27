@@ -1,9 +1,16 @@
 /*
 Credit:
 https://www.rustfinity.com/practice/rust/challenges/declaring-variables
-Write a program that prints "Hello, World!" 
-to the console using the println! macro.
+The calculate_area function should:
+Declare variables for width and height.
+Use the prints_values function to display the values of the width and height.
+Return the calculated area of the rectangle by multiplying width and height.
+Do not modify the prints_values function.
 */
+fn main() {
+    let result = calculate_area();
+}
+
 pub fn calculate_area() -> u32 {
     // TODO: Implement the function here
     // 1. Declare a variable named width

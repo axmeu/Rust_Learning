@@ -1,6 +1,6 @@
 # ![Rust Logo](https://www.rust-lang.org/logos/rust-logo-32x32.png) Rust Learning Repository
 
-I am a **NLP student at Paris Cité**, and this repository tracks my progress learning **Rust** through exercises on [Rustfinity](https://www.rustfinity.com/).  
+I am a **NLP student at Paris Cité**, and this repository tracks my learning progress of **Rust** through exercises on [Rustfinity](https://www.rustfinity.com/).  
 
 This initiative complements my academic studies and helps me build practical skills aligned with the professional requirements of the NLP industry, where Rust is increasingly used for high-performance, safe, and concurrent systems.
 
@@ -21,4 +21,4 @@ This initiative complements my academic studies and helps me build practical ski
 
 ## Progress
 
-![Progress](https://img.shields.io/badge/progress-2%25-brightgreen)
+![Progress](https://img.shields.io/badge/progress-3%25-brightgreen)
