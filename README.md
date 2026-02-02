@@ -21,4 +21,4 @@ This initiative complements my academic studies and helps me build practical ski
 
 ## Progress
 
-![Progress](https://img.shields.io/badge/progress-3%25-brightgreen)
+![Progress](https://img.shields.io/badge/progress-5%25-brightgreen)
